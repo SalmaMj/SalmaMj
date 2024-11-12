@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey, I'm Salma Mejri 👋
+<img src="https://github.com/salmaMj/salmaMj/blob/main/profile-picture.jpg" width="150" height="150" alt="Salma Mejri" align="right">
+About Me
+I'm Salma Mejri, a 5th-year Computer Science student at ESPRIT in Tunisia 🇹🇳, passionate about Cloud Computing, DevOps, and software engineering. I'm on a journey to enhance my technical skills and make a positive impact in the tech industry.
 
-<!--
-**SalmaMj/SalmaMj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently seeking a six-month final-year internship in Cloud Computing and DevOps.
+💻 Open to opportunities to apply my skills and gain experience in a dynamic, supportive environment.
+✍️ Always ready to learn, grow, and tackle new challenges.
+Let's Connect!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+📊 GitHub Stats
+
+✍️ Random Dev Quote
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+📈 WakaTime Coding Activity
+
