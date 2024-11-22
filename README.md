@@ -1,5 +1,5 @@
 ## Hey, I'm Salma Mejri 👋
-## 💻 Love to Learn, Create, and Innovate!
+💻 Love to Learn, Create, and Innovate!
 
 ## About Me 🚀
 🎓 I'm a 5th-year engineering student at ESPRIT, Tunisia.
