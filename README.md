@@ -18,7 +18,7 @@
 ## **📊 GitHub Stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SalmaMj&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaMj&layout=compact&theme=radical" alt="Top Languages"> </p>
 ## **🎨 Random Dev Quote**
-<p align="center">
+<p align>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F759B6&width=435&lines=%E2%80%9CThe+only+way+to+do+great+work+is+to+love+what+you+do.%E2%80%9D;-%E2%80%93+Steve+Jobs" alt="Typing SVG" />
 </p>
 
