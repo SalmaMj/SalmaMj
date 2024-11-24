@@ -33,7 +33,11 @@ Skills
     <img src="https://img.shields.io/badge/-Trivy-5B3D4A?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
     <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/-Power%20Automate-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white">
+    <img src="https://img.shields.io/badge/-Power%20Pages-0078D4?style=for-the-badge&logo=microsoft-powerpages&logoColor=white">
+    <img src="https://img.shields.io/badge/-SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
 </div>
+
 
 GitHub Stats 📊 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SalmaMj&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaMj&layout=compact&theme=radical" alt="Top Languages"> </p>
